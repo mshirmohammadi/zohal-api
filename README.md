@@ -5,4 +5,4 @@
 ## نصب
 
 ```bash
-composer require mshirmohammadi/zohal-api
+composer require mshirmohammadi/zohal-api:dev-main
