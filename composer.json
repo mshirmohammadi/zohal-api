@@ -1,0 +1,22 @@
+{
+    "name": "mshirmohammadi/zohal-api",
+    "description": "PHP SDK for Zohal API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Morteza Shirmohammadi"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ZohalAPI\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "ext-curl": "*"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
